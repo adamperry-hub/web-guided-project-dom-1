@@ -8,6 +8,7 @@ const header = document.querySelector("header");
 const logoTitle = document.querySelector("#logoTitle");
 // const firstCard = document.querySelector(".card:nth-of-type(1)");
 const firstCard = document.querySelector("dsjkfdjkfbdjs");
+console.log(firstCard);
 
 // B- finding within one particular element
 const imageFirstCard = null;
