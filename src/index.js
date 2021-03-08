@@ -10,6 +10,7 @@ const firstCard = document.querySelector(".card:nth-of-type(1)");
 
 // B- finding within one particular element
 const imageFirstCard = firstCard.querySelector("img");
+console.log("Cat picture: ", imageFirstCard);
 const titleFirstCard = null;
 const subtitleFirstCard = null;
 const textFirstCard = null;
