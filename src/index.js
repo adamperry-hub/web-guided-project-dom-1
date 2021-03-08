@@ -6,8 +6,7 @@
 // A- finding across the entire DOM
 const header = document.querySelector("header");
 const logoTitle = document.querySelector("#logoTitle");
-// const firstCard = document.querySelector(".card:nth-of-type(1)");
-const firstCard = document.querySelector("dsjkfdjkfbdjs");
+const firstCard = document.querySelector(".card:nth-of-type(1)");
 console.log(firstCard);
 
 // B- finding within one particular element
