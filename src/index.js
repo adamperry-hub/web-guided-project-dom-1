@@ -4,7 +4,7 @@
 //  Select the following single elements from the div.card
 
 // A- finding across the entire DOM
-const header = null
+const header = document.querySelector
 const logoTitle = null
 const firstCard = null
 // B- finding within one particular element
